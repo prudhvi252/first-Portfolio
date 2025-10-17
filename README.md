@@ -1,2 +1,2 @@
 # Portfolio
-Creating a well designed portfolio
+Creating a portfolio using HTML
